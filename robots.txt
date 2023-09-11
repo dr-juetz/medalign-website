@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://som-shahlab.github.io/medalign-website/sitemap.xml
